@@ -9,9 +9,9 @@
 |  5  | Цепь вызовов                                          | https://learn.javascript.ru/task/chain-calls                       |     +     |
 |  6  | Две функции - один объект                             | https://learn.javascript.ru/task/two-functions-one-object          |     -     |
 |  7  | Создание калькулятора при помощи конструктора         | https://learn.javascript.ru/task/calculator-constructor            |     +     |
-|  8  | Создаём Accumulator                                   | https://learn.javascript.ru/task/accumulator                       |           |
-|  9  | Работа с прототипами                                  | https://learn.javascript.ru/task/property-after-delete             |           |
-| 10  | Алгоритм поиска                                       | https://learn.javascript.ru/task/search-algorithm                  |           |
+|  8  | Создаём Accumulator                                   | https://learn.javascript.ru/task/accumulator                       |     +     |
+|  9  | Работа с прототипами                                  | https://learn.javascript.ru/task/property-after-delete             |     +     |
+| 10  | Алгоритм поиска                                       | https://learn.javascript.ru/task/search-algorithm                  |     +     |
 | 11  | Куда будет произведена запись?                        | https://learn.javascript.ru/task/proto-and-this                    |           |
 | 12  | Почему наедаются оба хомяка?                          | https://learn.javascript.ru/task/hamster-proto                     |           |
 | 13  | Изменяем "prototype"                                  | https://learn.javascript.ru/task/changing-prototype                |           |
