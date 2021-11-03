@@ -2,13 +2,13 @@
 
 |  #  |                    Название задачи                    |                          Ссылка на задачу                          | Результат |
 | --- | ----------------------------------------------------- | ------------------------------------------------------------------ |-----------|
-|  1  | Проверка синтаксиса                                   | https://learn.javascript.ru/task/check-syntax                      |   done    |
-|  2  | Объясните значение "this"                             | https://learn.javascript.ru/task/why-this                          |   done    |
-|  3  | Использование "this" в литерале объекта               | https://learn.javascript.ru/task/object-property-this              |   done    |
-|  4  | Создайте калькулятор                                  | https://learn.javascript.ru/task/calculator                        |           |
-|  5  | Цепь вызовов                                          | https://learn.javascript.ru/task/chain-calls                       |           |
-|  6  | Две функции - один объект                             | https://learn.javascript.ru/task/two-functions-one-object          |           |
-|  7  | Создание калькулятора при помощи конструктора         | https://learn.javascript.ru/task/calculator-constructor            |           |
+|  1  | Проверка синтаксиса                                   | https://learn.javascript.ru/task/check-syntax                      |     +     |
+|  2  | Объясните значение "this"                             | https://learn.javascript.ru/task/why-this                          |     +     |
+|  3  | Использование "this" в литерале объекта               | https://learn.javascript.ru/task/object-property-this              |     +     |
+|  4  | Создайте калькулятор                                  | https://learn.javascript.ru/task/calculator                        |     +     |
+|  5  | Цепь вызовов                                          | https://learn.javascript.ru/task/chain-calls                       |     +     |
+|  6  | Две функции - один объект                             | https://learn.javascript.ru/task/two-functions-one-object          |     -     |
+|  7  | Создание калькулятора при помощи конструктора         | https://learn.javascript.ru/task/calculator-constructor            |     +     |
 |  8  | Создаём Accumulator                                   | https://learn.javascript.ru/task/accumulator                       |           |
 |  9  | Работа с прототипами                                  | https://learn.javascript.ru/task/property-after-delete             |           |
 | 10  | Алгоритм поиска                                       | https://learn.javascript.ru/task/search-algorithm                  |           |
