@@ -2,9 +2,9 @@
 
 |  #  |                    Название задачи                    |                          Ссылка на задачу                          | Результат |
 | --- | ----------------------------------------------------- | ------------------------------------------------------------------ |-----------|
-|  1  | Проверка синтаксиса                                   | https://learn.javascript.ru/task/check-syntax                      |           |
-|  2  | Объясните значение "this"                             | https://learn.javascript.ru/task/why-this                          |           |
-|  3  | Использование "this" в литерале объекта               | https://learn.javascript.ru/task/object-property-this              |           |
+|  1  | Проверка синтаксиса                                   | https://learn.javascript.ru/task/check-syntax                      |   done    |
+|  2  | Объясните значение "this"                             | https://learn.javascript.ru/task/why-this                          |   done    |
+|  3  | Использование "this" в литерале объекта               | https://learn.javascript.ru/task/object-property-this              |   done    |
 |  4  | Создайте калькулятор                                  | https://learn.javascript.ru/task/calculator                        |           |
 |  5  | Цепь вызовов                                          | https://learn.javascript.ru/task/chain-calls                       |           |
 |  6  | Две функции - один объект                             | https://learn.javascript.ru/task/two-functions-one-object          |           |
