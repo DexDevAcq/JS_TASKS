@@ -1,12 +1,13 @@
-function makeUser() {
-    return {
-        name: 'valera',
-        ref() {
-            return this
-        }
-    }
+function sayHi() {
+    console.log(this.name)
 }
 
-let user = makeUser();
 
-console.log(user.ref().name)
+sayHi.asda = '2131'
+
+let bound = sayHi.bind({
+    name: 'qweqe'
+})
+
+
+console.log(bound.asda)
